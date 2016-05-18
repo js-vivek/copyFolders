@@ -1,0 +1,12 @@
+c:\users\vivek\documents\visual studio 2015\Projects\copyfiles\copyfiles\bin\Debug\copyfiles.exe.config
+c:\users\vivek\documents\visual studio 2015\Projects\copyfiles\copyfiles\bin\Debug\copyfiles.exe
+c:\users\vivek\documents\visual studio 2015\Projects\copyfiles\copyfiles\bin\Debug\copyfiles.pdb
+c:\users\vivek\documents\visual studio 2015\Projects\copyfiles\copyfiles\obj\Debug\copyfiles.csprojResolveAssemblyReference.cache
+c:\users\vivek\documents\visual studio 2015\Projects\copyfiles\copyfiles\obj\Debug\copyfiles.exe
+c:\users\vivek\documents\visual studio 2015\Projects\copyfiles\copyfiles\obj\Debug\copyfiles.pdb
+E:\Work\bikewale\copyfiles\copyfiles\bin\Debug\copyfiles.exe.config
+E:\Work\bikewale\copyfiles\copyfiles\obj\Debug\copyfiles.exe
+E:\Work\bikewale\copyfiles\copyfiles\obj\Debug\copyfiles.pdb
+E:\Work\bikewale\copyfiles\copyfiles\bin\Debug\copyfiles.exe
+E:\Work\bikewale\copyfiles\copyfiles\bin\Debug\copyfiles.pdb
+E:\Work\bikewale\copyfiles\copyfiles\obj\Debug\copyfiles.csprojResolveAssemblyReference.cache

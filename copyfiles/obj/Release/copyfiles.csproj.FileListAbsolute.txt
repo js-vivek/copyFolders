@@ -1,0 +1,6 @@
+E:\Work\bikewale\copyfiles\copyfiles\bin\Release\copyfiles.exe.config
+E:\Work\bikewale\copyfiles\copyfiles\bin\Release\copyfiles.exe
+E:\Work\bikewale\copyfiles\copyfiles\bin\Release\copyfiles.pdb
+E:\Work\bikewale\copyfiles\copyfiles\obj\Release\copyfiles.csprojResolveAssemblyReference.cache
+E:\Work\bikewale\copyfiles\copyfiles\obj\Release\copyfiles.exe
+E:\Work\bikewale\copyfiles\copyfiles\obj\Release\copyfiles.pdb
